@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Herjati Aji</h1>
-<h3 align="center">Aspiring Software Engineer with a passion for crafting innovative solutions. Currently pursuing a degree in Software Engineering, my academic journey has fueled my curiosity and love for technology. Proficient in various realms, I specialize in Android development, game development, and fullstack web development.</h3>
+<h3 align="center">Aspiring Software Engineer with a passion for crafting innovative solutions. Currently graduated in Software Engineering, my academic journey has fueled my curiosity and love for technology. Proficient in various realms, I specialize in Android development, game development, and fullstack web development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herjatiaji" alt="herjatiaji" /></a> </p>
 
